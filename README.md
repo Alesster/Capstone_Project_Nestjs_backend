@@ -19,3 +19,5 @@ OUTPUT: receipt
 GET/winner-list-score
 INPUT: nothing
 OUTPUT: list of 3 top winners with number of proposal and score.
+
+ABI: /src/assets/Ballot.json
